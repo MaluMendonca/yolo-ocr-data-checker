@@ -195,10 +195,10 @@ def extract_text_from_image(image):
  
  
 # ========== CONFIGURAÇÃO YOLO ========== 
-cap = cv2.VideoCapture("output.mp4") 
+cap = cv2.VideoCapture("TestarComVideo.mp4") 
 assert cap.isOpened(), "Erro ao abrir vídeo" 
  
-model_path = "/home/jhmendonca/best.pt" 
+model_path = "/seu/caminho/best.pt" 
 if not os.path.exists(model_path): 
     model_path = "yolov8n.pt" 
  
