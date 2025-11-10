@@ -11,7 +11,7 @@ O sistema reconhece os textos dessas áreas, compara com os valores esperados e 
 <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000000000&color=FFBFEF&center=true&vCenter=true&random=false&width=524&lines=Passo+a+passo+do+codigo:+" alt="Typing SVG"> </a> </div><img align="center" alt="" src="./src/header-gif.gif">
 
 
-# <h3 align="center" style="color:#FFBFEF;">1️- IMPORTAÇÃO DAS BIBLIOTECAS </h3>
+ <h3 align="center" style="color:#FFBFEF;">1️- IMPORTAÇÃO DAS BIBLIOTECAS </h3>
 
   
    -      import cv2 
