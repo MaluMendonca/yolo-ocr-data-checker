@@ -1,5 +1,4 @@
 Eu fiz em um ambiente CONDA local! ⋆
-  Voce pode tambem tentar fazer no COLAB, vou mostrar das duas formas. ⋆𐙚₊˚⊹♡
 
   Segue a explicação detalhada sobre o código para tentar sanar possíveis dúvidas:
 
